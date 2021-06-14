@@ -4,29 +4,29 @@
 
 ### account deployed
 
-![account deployed](1.png)
+![account deployed](execution_results_joint_savings/1.png)
 
 
 ### 1 eth deposited
 
-![1ethdeposited](2.png)
+![1ethdeposited](execution_results_joint_savings/2.png)
 
 
 ### 10 eth deposited
 
-![10ethdeposited](3.png)
+![10ethdeposited](execution_results_joint_savings/3.png)
 
 
 ### 5 eth deposited
 
-![5ethdeposited](4.png)
+![5ethdeposited](execution_results_joint_savings/4.png)
 
 
 ### 5 eth withdrawn to accountone
 
-![5ethtoaccountone](5.png)
+![5ethtoaccountone](execution_results_joint_savings/5.png)
 
 
 ### 10 eth withdrawn to accounttwo
 
-![10ethtoaccounttwo](6.png)
+![10ethtoaccounttwo](execution_results_joint_savings/6.png)
