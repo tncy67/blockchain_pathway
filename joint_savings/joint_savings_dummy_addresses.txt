@@ -1,0 +1,8 @@
+https://vanity-eth.tk/
+
+Address: 0xb99aDd1023bA102174ab516a116D65fcDFa658A2
+Private key: 47139bccb937ffab3c48f60aa907d5c2321bc9846af223e8d564a516e74ef2c8
+
+
+Address: 0x8E891c7c1EC52A09B0fC10639a39D1a53d6f2D01
+Private key: 925e7e5adc97fbfbf3582a93267592c2c7077e86a865eb01094df1a579aff8f2
