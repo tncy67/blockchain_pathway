@@ -26,7 +26,7 @@ contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale, Time
         Crowdsale(rate, wallet, token)
         CappedCrowdsale(goal)
         TimedCrowdsale(open, close)
-        RefundableCrowdsale(goal)
+        RefundablePostDeliveryCrowdsale(goal)
     {
         // constructor can stay empty
     }
