@@ -32,7 +32,7 @@ contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale, Time
     }
 }
 
-/*
+
 contract KaseiCoinCrowdsaleDeployer {
     // Create an `address public` variable called `kasei_token_address`.
     // YOUR CODE HERE!
@@ -75,4 +75,3 @@ contract KaseiCoinCrowdsaleDeployer {
         token.renounceMinter();
     }
 }
-*/
